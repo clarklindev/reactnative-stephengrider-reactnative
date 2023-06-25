@@ -1,0 +1,16 @@
+{
+  "name": "stephengrider-reactnative-jsonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "db": "json-server -w db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "ngrok": "^4.3.3"
+  }
+}
